@@ -1,0 +1,12 @@
+name: experiments-in-file-uploading
+title: experiments-in-file-uploading
+username:
+account: karel-kroeze
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1289311
+bundleId: 2470886
+url: https://karel-kroeze.shinyapps.io/experiments-in-file-uploading/
+when: 1570268781.9038
+asMultiple: FALSE
+asStatic: FALSE
